@@ -74,19 +74,24 @@ npm start
 ## 📱 Screenshots
 
 - Login Interface
-  ![image](https://github.com/user-attachments/assets/f17c0ae3-4440-402f-a0bf-c2f43bf10ce8)
+  
+![image](https://github.com/user-attachments/assets/f17c0ae3-4440-402f-a0bf-c2f43bf10ce8)
 
 - Dashboard Overview
+
 ![image](https://github.com/user-attachments/assets/b79899f2-2eec-47db-9636-58ce0353ac6d)
 
 - Vehicle Management
-  ![image](https://github.com/user-attachments/assets/ba05d7bf-fcfe-4449-93aa-0903d65e68a6)
+
+![image](https://github.com/user-attachments/assets/ba05d7bf-fcfe-4449-93aa-0903d65e68a6)
 
 - Technical Control Details
-  ![image](https://github.com/user-attachments/assets/e0d36024-1c55-42dd-8641-6fdf23f872dd)
+
+![image](https://github.com/user-attachments/assets/e0d36024-1c55-42dd-8641-6fdf23f872dd)
 
 - User Management
-  ![image](https://github.com/user-attachments/assets/53ff4f0b-35a3-4c95-bf0f-bd650405540e)
+
+![image](https://github.com/user-attachments/assets/53ff4f0b-35a3-4c95-bf0f-bd650405540e)
 
 ## 🔒 Environment Variables
 
